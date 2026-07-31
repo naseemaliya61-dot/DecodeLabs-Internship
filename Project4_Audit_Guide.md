@@ -82,5 +82,3 @@ SECTION 3: HARDENED VERIFICATION
 - [Terminal output/screenshot proving disk encryption is ON]
 - [Any other proof of fixed state]
 ```
-
-Keep it to 1 page — this is meant to be a snapshot, not an essay.
